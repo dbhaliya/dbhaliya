@@ -18,8 +18,6 @@
 
 - 💬 Ask me about **Flutter, PHP, Figma & AOS**
 
-- 📫 How to reach me **dharmik.bhaliya@sarvadhi.com**
-
 - ⚡ Fun fact **I think I'm Best Flutter Devloper, Mostly Error Solver & Best App UI Creator**
 
 <h3 align="left">Connect with me:</h3>
