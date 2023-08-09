@@ -12,8 +12,6 @@
 
 - 🔭 I’m currently working on [Flutter](https://github.com/dbhaliya)
 
-- 🌱 I’m currently learning **PHP, Figma & AOS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/dbhaliya](https://github.com/dbhaliya)
 
 - 💬 Ask me about **Flutter, PHP, Figma & AOS**
